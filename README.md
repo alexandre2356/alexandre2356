@@ -1,7 +1,5 @@
 ### Olá 👋
 
-<!--
-**alexandre2356/alexandre2356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -9,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 Estudei TI e Rede de Computadores ...
 - 👯 Reabilitado INSS ...
 - 🤔 PCD ...
-- 💬 Xbox X ...
+- 💬 Xbox X gamertag CattiestRelic7...
 
 <div align="center">
 <a href="https://github.com/alexandre2356">
@@ -23,4 +21,4 @@ Here are some ideas to get you started:
 </div>
 
 
--->
+
