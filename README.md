@@ -1,10 +1,10 @@
 ### Olá 👋
 
-- 🔭 Eu trabalho com montagem de rede ...
-- 🌱 Estudei TI e Rede de Computadores ...
-- 👯 Reabilitado INSS ...
-- 🤔 PCD ...
-- 💬 Xbox X gamertag CattiestRelic7...
+- 🔭 Eu trabalho com montagem de rede.
+- 🌱 Estudei TI e Rede de Computadores.
+- 👯 Reabilitado INSS.
+- 🤔 PCD.
+- 💬 Xbox X, gamertag CattiestRelic7.
 
 <div align="center">
 <a href="https://github.com/alexandre2356">
@@ -22,7 +22,6 @@
   
   
   
-  ![snake gif](https://github.com/alexandre2356/alexandre2356/blob/output/github-contribution-grid-snake.svg)
   
   
   
