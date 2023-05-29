@@ -66,4 +66,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=red&height=120&section=footer"/>
 
-    [![readme](https://github-readme-stats.vercel.app/api/pin/?username=alexandre2356&repo=alexandre2356&theme=react)](https://github.com/alexandre2356/alexandre2356)
+   
