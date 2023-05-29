@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=red&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=yellow&height=120&section=header"/>
 
 <div align="center">
 
-<h2> Seja, bem vindo!</h2>
+<h1><b> Olá, seja bem vindo!<b></h2>
 <h2> Meu nome é Alexandre Araujo!</h2>
 <h2> Tenho certificação em TI e Rede de Computadores!</h2>
-
+<h2>Sou Reabilitado INSS e PCD!
 </div>
 </br>
 <p align="center">
@@ -14,8 +14,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexandre2356&show_icons=true&count_private=true&hide_border=true&title_color=black&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Alexandre Araujo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre&layout=compact&hide_border=true&title_color=ff91a4&text_color=black&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexandre2356&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Alexandre Araujo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre2356&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
@@ -27,11 +27,13 @@
  
  ### Main skills:
 
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<img align="center" alt="Formando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 
 ### Studying in this moment:
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<img align="center" alt="Formando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
