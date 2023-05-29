@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=yellow&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
 <div align="center">
 
-<h1><b> Olá, seja bem vindo!<b></h2>
+<h1><b> Olá, seja bem vindo!<b></h1><br>
 <h2> Meu nome é Alexandre Araujo!</h2>
 <h2> Tenho certificação em TI e Rede de Computadores!</h2>
 <h2>Sou Reabilitado INSS e PCD!
@@ -63,6 +63,6 @@
   
 </div>
     
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=red&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
 
    
