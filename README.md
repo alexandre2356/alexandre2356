@@ -41,9 +41,10 @@
 <img align="left" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="left" alt="Formando -HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="left" alt="Formando-PHP " height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
+
+ <br><br>
 <div align="center">
-<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<br><p align="center"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alexandre2356}/count.svg" /></p> 
 <br>
 </div>
