@@ -1,18 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
 
-<div align="left">
-
-  
-
-<h3>Olá, seja bem vindo!</h3><br>
-<h3>Meu nome é <i>Alexandre Araujo!<i></h3><br>
-<h3> Tenho certificação em TI e Rede de Computadores!</h3>
-<h3>Sou Reabilitado INSS e PCD!
  
-</div>
-
-  
 <br>
 <br>
 <br>
